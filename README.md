@@ -16,7 +16,7 @@ Este é o repositório do meu projeto incrível.
   
 2. Acesse o diretório do projeto 
   
-  cd cardStarWars
+  ```cd cardStarWars```
   
 3. Instale as dependências com o Yarn:
  
