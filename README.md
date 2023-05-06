@@ -11,12 +11,15 @@ Este é o repositório do meu projeto incrível.
 ## Instalação
 
 1. Clone este repositório:
+  
   git clone https://github.com/igordonatti/cardStarWars
   
 2. Acesse o diretório do projeto 
+  
   cd cardStarWars
   
 3. Instale as dependências com o Yarn:
+ 
   yarn install
   
 ## Utilização
