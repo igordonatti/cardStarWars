@@ -12,15 +12,15 @@ Este é o repositório do meu projeto incrível.
 
 1. Clone este repositório:
   
-  git clone https://github.com/igordonatti/cardStarWars
+    ```git clone https://github.com/igordonatti/cardStarWars```
   
 2. Acesse o diretório do projeto 
   
-  ```cd cardStarWars```
+    ```cd cardStarWars```
   
 3. Instale as dependências com o Yarn:
  
-  yarn install
+    ```yarn install```
   
 ## Utilização
 Para executar o projeto, você pode utilizar os seguintes comandos:
