@@ -27,7 +27,7 @@ Para executar o projeto, você pode utilizar os seguintes comandos:
 
 ## Iniciar o servidor de desenvolvimento:
 
-yarn dev
+```yarn dev```
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
