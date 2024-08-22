@@ -20,7 +20,7 @@ module.exports = {
         whites: {
           100: '#ECE4EF',
           200: '#D8CEDE'
-        }
+        }, 
       },
       backgroundImage: {
         'gradient-darkBlue': 'linear-gradient(to bottom right, #030422, #090114)',
